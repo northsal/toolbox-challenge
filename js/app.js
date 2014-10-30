@@ -1,6 +1,9 @@
 //app.js: our main javascript file
 "use strict";
 
+// metric
+//track 1st image with a variable
+//delay after flipping two tiles over window.setTimeout /boolean variable 
 var tiles = [];
 var idx;
 var tile;
