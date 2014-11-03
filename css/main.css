@@ -1,6 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
 
+.container-fluid {
+    background-color: #8EE5EE;
+}
 
+header {
+    font-size: 30px;
+}
+body {
+    font-family: 'Oswald', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: 400;
+    background-color: #7AC5CD;
+}
 #game-board img {
+    background-color: #8EE5EE;
     width: 25%;
     height: 25%;
     padding: 5px;
